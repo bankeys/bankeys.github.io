@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bankeys.github.io/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/app/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/assets/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/css/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/data/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/includes/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/item/sitemap.bankeys.gz
+Sitemap: https://bankeys.github.io/src/sitemap.bankeys.gz
